@@ -1,0 +1,3 @@
+Run "saturnchallenger as root". to compile saturnchallenger go into the source directory and "gcc -o saturnchallenger *.c -lusb"
+-Jeff Crowell
+ps. to compile cronus-linux run "gcc cronus.c -o cronus-linux"
